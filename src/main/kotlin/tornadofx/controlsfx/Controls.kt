@@ -1,6 +1,7 @@
 package tornadofx.controlsfx
 
-import impl.org.controlsfx.table.ColumnFilter
+
+
 import javafx.beans.property.*
 import javafx.beans.value.ObservableValue
 import javafx.collections.ObservableList
@@ -12,6 +13,7 @@ import javafx.stage.PopupWindow
 import javafx.util.Callback
 import org.controlsfx.control.*
 import org.controlsfx.control.decoration.Decoration
+import org.controlsfx.control.table.ColumnFilter
 import org.controlsfx.control.table.TableFilter
 import org.controlsfx.glyphfont.FontAwesome
 import org.controlsfx.glyphfont.Glyph
